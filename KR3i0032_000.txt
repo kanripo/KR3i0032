@@ -1,5 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+TITLE: 史氏菊譜
-#+DATE: 2015-08-24 23:18:16.692146
-#+PROPERTY: ID KR3i0032
-#+PROPERTY: BASEEDITION WYG    
